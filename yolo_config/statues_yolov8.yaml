@@ -1,0 +1,8 @@
+path: statues-dataset-processed
+train: images/train
+val: images/val
+test:  images/test
+names:
+  0: other
+  1: lenin
+  2: ataturk

@@ -1,0 +1,30 @@
+# Compiled Python files
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Dependency directories
+node_modules/
+__pycache__/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.iml
+.idea/workspace.xml
+.idea/misc.xml
+
+# Compiled files
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
